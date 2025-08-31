@@ -1,6 +1,7 @@
 # 🧮 BMI Calculator App
 
-**BMI Calculator** is a Flutter-based mobile application that calculates the Body Mass Index (BMI) and determines the user’s health category based on weight, height, age, and gender.
+**BMI Calculator** is a Flutter-based mobile application that calculates the Body Mass Index (BMI)
+and determines the user’s health category based on weight, height, age, and gender.
 
 ---
 
@@ -34,5 +35,5 @@
 1. Make sure [Flutter](https://docs.flutter.dev/get-started/install) is installed on your system.
 2. Clone this repository:
    ```bash
-   git clone https://github.com/BaraaAJameha/bmi-calculator.git
+   git clone https://github.com/BaraaAJameha/BMI-Calculator.git
 
