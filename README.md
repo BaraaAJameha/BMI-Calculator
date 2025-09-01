@@ -18,6 +18,12 @@ and determines the user’s health category based on weight, height, age, and ge
 
 ---
 
+## Screenshot 
+<img src="https://github.com/user-attachments/assets/809542ce-bb4a-46bf-a047-6262897d2561" alt="Screenshot 1" width="250"/>
+<img src="https://github.com/user-attachments/assets/15d8ba18-649c-43b1-9003-25805d5bd4ec" alt="Screenshot 2" width="250"/>
+
+
+
 ## 🛠️ Technologies Used
 - **Flutter** (Dart)
 - Core Flutter Widgets:
